@@ -182,7 +182,12 @@ $('.portfolio-menu > button').on('click', function(event) {
     event.preventDefault();
 });
 ```
+### PLUGINS.js
 
+```
+    <script src="isotope.pkgd.min.js"></script>
+    <script src="imagesloaded.pkgd.min.js"></script>
+```
 
 ### Ask Any Question or if you need help contact me 24/7 we are ready support team.
 
